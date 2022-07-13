@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  width: "100vw";
+  height: "100vh";
+  margin: 0;
+  padding: 0;
+}
+.Sidebar{
+  height: 100vw;
+  width: 250px;
+  background-color: darkslategrey;
+  text-emphasis-color: white;
+  text-align: left;
+
+}
+.Icon{
+  color: white;
+  float: inline-start;
+  display: inline-block;
+}
+.Text{
+   color:white;
+   display: inline-block;
+   float: center;
+}
+.Hover:hover{
+  background-color: cyan;
+}
